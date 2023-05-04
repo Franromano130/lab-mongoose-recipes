@@ -32,7 +32,7 @@ mongoose
     dishType: "main_course",
     image: 0,
     duration: 40,
-    creator: "Francisco y Jonathan"
+    creator: "Francisco"
    })
   })
   .then(() =>{
